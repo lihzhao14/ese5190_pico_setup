@@ -149,6 +149,27 @@ VS Code will be popped up.
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/2.png" width="550">  
 </div>
 
+## [Installing Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ##
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/9.%20Putty/1.png" width="550">  
+</div>
+
+* Find out which serial port the board (RP2040) is using
+Use Windows Device Manager to determine which port the board is using. Open Device Manager. Click on Ports (COM & LPT). You should find something already in that list with (COM#) after it where # is a number.
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/9.%20Putty/2.png" width="450">  
+</div>
+
+* Then, open PuTTY
+    * Under **Connection type**: choose the button next to **Seria**l.
+    * In the box under **Serial line**, enter the serial port you found that your board is using.
+    * In the box under **Speed**, enter **115200**. 
+    * Save that as a stored session. Enter a name ("Advanced Serial Console") in the box under Saved Sessions, and click the Save button on the right.
+    * Click "Open" at the bottom of the window. A new window will open
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/9.%20Putty/3.png" width="450">  
+</div>
+
 ## Result ##
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/Results/1.jpg" width="550">  
