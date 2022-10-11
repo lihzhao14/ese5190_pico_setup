@@ -7,14 +7,14 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 
 ## Installing the Toolchain ##
 
-* [Arm GNU Toolchain](#Installing_Arm_GNU_Toolchain)
-* [CMake](#Installing_CMake)
-* [Build Tools for Visual Studio 2022](#Installing_Build_Tools_for_Visual_Studio_2022)
-* [Python 3.10](#Installing_Python_3.10)
-* [Git](#Installing_Git)
+* [Arm GNU Toolchain](#Installing-Arm-GNU-Toolchain)
+* [CMake](#Installing-CMake)
+* [Build Tools for Visual Studio 2022](#Installing-Build-Tools-for-Visual-Studio-2022)
+* [Python 3.10](https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/README.md#installing-python-310)
+* [Git](#Installing-Git)
  
 
-#### [Installing_Arm_GNU_Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
+#### [Installing Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
 * Finding the filename ending with -arm-none-eabi.exe to download
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/1.%20Arm%20GNU%20Toolchain/1.jpg" width="500">  
@@ -25,19 +25,19 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/1.%20Arm%20GNU%20Toolchain/2.jpg" width="450">  
 </div>
 
-#### [Installing_CMake](https://cmake.org/download/)  ####
+#### [Installing CMake](https://cmake.org/download/)  ####
 * During the installation, add CMake to the system PATH for all users when prompted by the installer.
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/2.%20CMake/1.jpg" width="450">  
 </div>
 
-#### [Installing_Build_Tools_for_Visual_Studio_2022](https://visualstudio.microsoft.com/zh-hans/downloads/) ####
+#### [Installing Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/downloads/) ####
 * When prompted by the Build Tools for Visual Studio installer, install the C++ build tools only.
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/3.%20Visual%20Studio%202022/1.jpg" width="450">  
 </div>
 
-#### [Installing_Python_3.10](https://www.python.org/downloads/release/python-3107/)  ####
+#### [Installing Python 3.10](https://www.python.org/downloads/release/python-3107/)  ####
 * For windows system, install "Windows Installer".
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/4.%20Python%203.10/1.jpg" width="450">  
@@ -60,7 +60,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/4.%20Python%203.10/4.jpg" width="450">  
 </div>
 
-#### [Installing_Git](https://git-scm.com/download/win)  ####
+#### [Installing Git](https://git-scm.com/download/win)  ####
 * When installing Git you should ensure that you change the default editor away from vim to Notepad as Git's default editor
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/1.jpg" width="450">  
@@ -134,7 +134,7 @@ VS Code will be popped up.
 * Close the Settings page and go to the File menu and click on **"Open Folder"** and navigate to pico-examples repo and click **"Select Folder"**. 
 * Select "GCC for arm-none-eabi" as the compiler
 <div align=center>
-<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/7.%20Building%20Hello%20World%20from%20VS%20Code/4.jpg" width="450">  
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/7.%20Building%20Hello%20World%20from%20VS%20Code/4.jpg" width="300">  
 </div>
 
 ## Connect the RP2040 to the Laptop ##
@@ -146,7 +146,7 @@ VS Code will be popped up.
 
 * Drag and drop **"hello_usb.uf2"** into the drive. (The path of "hello_usb.uf2" is "C:\Users\zlhgl\ese5190_lab2\pico\Downloads\pico-examples\build\hello_world\usb")
 <div align=center>
-<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/2.png" width="450">  
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/2.png" width="550">  
 </div>
 
 ## Result ##
@@ -154,4 +154,5 @@ VS Code will be popped up.
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/Results/1.jpg" width="550">  
 </div>
 
-[Go to top](Top)
+
+[Go to top](https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/README.md#pico-setup-guide-for-windows)
