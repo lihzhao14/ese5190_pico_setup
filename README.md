@@ -10,7 +10,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 * [Arm GNU Toolchain](#Installing_Arm_GNU_Toolchain)
 * [CMake](#Installing_CMake)
 * [Build Tools for Visual Studio 2022](#Installing_Build_Tools_for_Visual_Studio_2022)
-* [Python 3.10](#Installing_Python_3.10)
+* [Python 3.10](#Installing-Python-3.10)
 * [Git](#Installing_Git)
  
 
@@ -37,7 +37,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/3.%20Visual%20Studio%202022/1.jpg" width="450">  
 </div>
 
-#### [Installing_Python_3.10](https://www.python.org/downloads/release/python-3107/)  ####
+#### [Installing Python 3.10](https://www.python.org/downloads/release/python-3107/)  ####
 * For windows system, install "Windows Installer".
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/4.%20Python%203.10/1.jpg" width="450">  
