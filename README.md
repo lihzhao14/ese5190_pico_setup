@@ -7,19 +7,17 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 
 ## Installing the Toolchain ##
 
-[Arm GNU Toolchain](#Arm GNU Toolchain)
+* [Arm GNU Toolchain](#Installing Arm GNU Toolchain)
+* [CMake](#Installing CMake)
+* [Build Tools for Visual Studio 2022](#Installing Build Tools for Visual Studio 2022)
+* [Python 3.10](#Installing Python 3.10)
+* [Git](#Installing Git)
  
 
-* [Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads)
-* [CMake](https://cmake.org/download/)
-* [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/downloads/)
-* [Python 3.10](https://www.python.org/downloads/release/python-3107/)
-* [Git](https://git-scm.com/download/win)
-
-#### [Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
+#### [Installing Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
 finding the filename ending with -arm-none-eabi.exe
-#### [CMake](https://cmake.org/download/)  ####
-#### [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/downloads/)  ####
-#### [Python 3.10](https://www.python.org/downloads/release/python-3107/)  ####
-#### [Git](https://git-scm.com/download/win)  ####
+#### [Installing CMake](https://cmake.org/download/)  ####
+#### [Installing Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/downloads/)  ####
+#### [Installing Python 3.10](https://www.python.org/downloads/release/python-3107/)  ####
+#### [Installing Git](https://git-scm.com/download/win)  ####
  
