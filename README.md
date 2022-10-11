@@ -44,13 +44,13 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 </div>
 
 * During the installation, ensure that,
-** It’s installed 'for all users';
-** Add Python 3.10 to the system PATH when prompted by the installer. 
+    * It’s installed 'for all users';
+    * Add Python 3.10 to the system PATH when prompted by the installer. 
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/4.%20Python%203.10/2.jpg" width="450">  
 </div>
 
-** Additionally, disable the MAX_PATH length limit when prompted at the end of the Python installation. 
+* Additionally, disable the MAX_PATH length limit when prompted at the end of the Python installation. 
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/4.%20Python%203.10/3.jpg" width="450">  
 </div>
@@ -61,4 +61,22 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 </div>
 
 #### [Installing_Git](https://git-scm.com/download/win)  ####
- 
+* When installing Git you should ensure that you change the default editor away from vim to Notepad as Git's default editor
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/1.jpg" width="450">  
+</div>
+
+* Check the box "Checkout as is, commit as-is"
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/2.jpg" width="450">  
+</div>
+
+* Select "Use Windows' default console window"
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/3.jpg" width="450">  
+</div>
+
+* Select "Enable experimental support for pseudo consoles"
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/4.jpg" width="450">  
+</div>
