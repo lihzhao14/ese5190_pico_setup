@@ -155,7 +155,7 @@ VS Code will be popped up.
 </div>
 
 * Find out which serial port the board (RP2040) is using
-Use Windows Device Manager to determine which port the board is using. Open Device Manager. Click on Ports (COM & LPT). You should find something already in that list with (COM#) after it where # is a number.
+Use Windows Device Manager to determine which port the board is using. Open Device Manager. Click on Ports (COM & LPT). You should find something already in that list with (COM#) after it where # is a number. Here, it is **COM4**.
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/9.%20Putty/2.png" width="450">  
 </div>
