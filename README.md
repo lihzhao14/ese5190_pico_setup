@@ -84,5 +84,22 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 ## Getting the SDK and examples ##
 * Open VS Code Terminal
 <div align=center>
-<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/4.jpg" width="450">  
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/6.%20Getting%20the%20SDK%20and%20examples/1.jpg" width="450">  
 </div>
+
+* Turn to initial address
+```
+    cd to "C:\Users\zlhgl\ese5190_lab2\pico\Downloads"
+```
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/6.%20Getting%20the%20SDK%20and%20examples/2.jpg" width="550">  
+</div>
+
+ 
+```
+C:\Users\zlhgl\ese5190_lab2\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-sdk.git
+C:\Users\zlhgl\ese5190_lab2\pico\Downloads> cd pico-sdk
+C:\Users\zlhgl\ese5190_lab2\pico\Downloads\pico-sdk> git submodule update --init
+C:\Users\zlhgl\ese5190_lab2\pico\Downloads\pico-sdk> cd ..
+C:\Users\zlhgl\ese5190_lab2\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-examples.git
+```
