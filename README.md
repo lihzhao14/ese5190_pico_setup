@@ -7,14 +7,14 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 
 ## Installing the Toolchain ##
 
-* [Arm GNU Toolchain](#Installing_Arm_GNU_Toolchain)
-* [CMake](#Installing_CMake)
+* [Arm GNU Toolchain](https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/README.md#installing_arm_gnu_toolchain)
+* [CMake](#Installing-CMake)
 * [Build Tools for Visual Studio 2022](#Installing_Build_Tools_for_Visual_Studio_2022)
 * [Python 3.10](https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/README.md#installing-python-310)
 * [Git](#Installing_Git)
  
 
-#### [Installing_Arm_GNU_Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
+#### [Installing Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
 * Finding the filename ending with -arm-none-eabi.exe to download
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/1.%20Arm%20GNU%20Toolchain/1.jpg" width="500">  
@@ -25,7 +25,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/1.%20Arm%20GNU%20Toolchain/2.jpg" width="450">  
 </div>
 
-#### [Installing_CMake](https://cmake.org/download/)  ####
+#### [Installing CMake](https://cmake.org/download/)  ####
 * During the installation, add CMake to the system PATH for all users when prompted by the installer.
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/2.%20CMake/1.jpg" width="450">  
