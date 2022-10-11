@@ -10,7 +10,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 * [Arm GNU Toolchain](#Installing_Arm_GNU_Toolchain)
 * [CMake](#Installing_CMake)
 * [Build Tools for Visual Studio 2022](#Installing_Build_Tools_for_Visual_Studio_2022)
-* [Python 3.10](#Installing-Python-3.10)
+* [Python 3.10](https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/README.md#installing-python-310)
 * [Git](#Installing_Git)
  
 
