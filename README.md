@@ -7,14 +7,14 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 
 ## Installing the Toolchain ##
 
-* [Arm GNU Toolchain](#Installing Arm GNU Toolchain)
+* [Arm GNU Toolchain](#Installing_Arm_GNU_Toolchain)
 * [CMake](#Installing CMake)
 * [Build Tools for Visual Studio 2022](#Installing Build Tools for Visual Studio 2022)
 * [Python 3.10](#Installing Python 3.10)
 * [Git](#Installing Git)
  
 
-#### [Installing Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
+#### [Installing_Arm_GNU_Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
 finding the filename ending with -arm-none-eabi.exe
 #### [Installing CMake](https://cmake.org/download/)  ####
 #### [Installing Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/downloads/)  ####
