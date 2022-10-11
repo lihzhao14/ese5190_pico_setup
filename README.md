@@ -160,7 +160,7 @@ Use Windows Device Manager to determine which port the board is using. Open Devi
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/9.%20Putty/2.png" width="450">  
 </div>
 
-* Then, open PuTTY
+* Then, open PuTTY:
     * Under **Connection type**: choose the button next to **Seria**l.
     * In the box under **Serial line**, enter the serial port you found that your board is using.
     * In the box under **Speed**, enter **115200**. 
