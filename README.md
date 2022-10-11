@@ -149,4 +149,8 @@ VS Code will be popped up.
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/2.png" width="450">  
 </div>
 
+## Result ##
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/Results/1.jpg" width="550">  
+</div>
 [Go to top](Top)
