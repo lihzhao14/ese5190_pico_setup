@@ -134,7 +134,7 @@ VS Code will be popped up.
 * Close the Settings page and go to the File menu and click on **"Open Folder"** and navigate to pico-examples repo and click **"Select Folder"**. 
 * Select "GCC for arm-none-eabi" as the compiler
 <div align=center>
-<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/7.%20Building%20Hello%20World%20from%20VS%20Code/4.jpg" width="450">  
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/7.%20Building%20Hello%20World%20from%20VS%20Code/4.jpg" width="300">  
 </div>
 
 ## Connect the RP2040 to the Laptop ##
@@ -146,7 +146,7 @@ VS Code will be popped up.
 
 * Drag and drop **"hello_usb.uf2"** into the drive. (The path of "hello_usb.uf2" is "C:\Users\zlhgl\ese5190_lab2\pico\Downloads\pico-examples\build\hello_world\usb")
 <div align=center>
-<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/2.png" width="450">  
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/2.png" width="550">  
 </div>
 
 ## Result ##
