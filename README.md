@@ -139,6 +139,14 @@ VS Code will be popped up.
 
 ## Connect the RP2040 to the Laptop ##
 * Reset the RP2040
+    * Hold down the BOOT/BOOTSEL button (highlighted in red) and plug into the USB-port. 
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/1.jpg" width="450">  
+</div>
 
+* Drag and drop **"hello_usb.uf2"** into the drive. (The path of "hello_usb.uf2" is "C:\Users\zlhgl\ese5190_lab2\pico\Downloads\pico-examples\build\hello_world\usb")
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/8.%20RP2040/2.jpg" width="450">  
+</div>
 
 [Go to top](Top)
