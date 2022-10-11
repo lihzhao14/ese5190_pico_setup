@@ -7,11 +7,11 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 
 ## Installing the Toolchain ##
 
-* [Arm GNU Toolchain](https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/README.md#installing_arm_gnu_toolchain)
+* [Arm GNU Toolchain](#Installing-Arm-GNU-Toolchain)
 * [CMake](#Installing-CMake)
-* [Build Tools for Visual Studio 2022](#Installing_Build_Tools_for_Visual_Studio_2022)
+* [Build Tools for Visual Studio 2022](#Installing-Build-Tools-for-Visual-Studio-2022)
 * [Python 3.10](https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/README.md#installing-python-310)
-* [Git](#Installing_Git)
+* [Git](#Installing-Git)
  
 
 #### [Installing Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) ####
@@ -31,7 +31,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/2.%20CMake/1.jpg" width="450">  
 </div>
 
-#### [Installing_Build_Tools_for_Visual_Studio_2022](https://visualstudio.microsoft.com/zh-hans/downloads/) ####
+#### [Installing Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/downloads/) ####
 * When prompted by the Build Tools for Visual Studio installer, install the C++ build tools only.
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/3.%20Visual%20Studio%202022/1.jpg" width="450">  
@@ -60,7 +60,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/4.%20Python%203.10/4.jpg" width="450">  
 </div>
 
-#### [Installing_Git](https://git-scm.com/download/win)  ####
+#### [Installing Git](https://git-scm.com/download/win)  ####
 * When installing Git you should ensure that you change the default editor away from vim to Notepad as Git's default editor
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/1.jpg" width="450">  
