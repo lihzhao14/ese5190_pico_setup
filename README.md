@@ -80,3 +80,9 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/4.jpg" width="450">  
 </div>
+
+## Getting the SDK and examples ##
+* Open VS Code Terminal
+<div align=center>
+<img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/5.%20Git/4.jpg" width="450">  
+</div>
