@@ -153,4 +153,5 @@ VS Code will be popped up.
 <div align=center>
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/Results/1.jpg" width="550">  
 </div>
+
 [Go to top](Top)
