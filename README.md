@@ -111,7 +111,7 @@ C:\Users\zlhgl\ese5190_lab2\pico\Downloads> git clone -b master https://github.c
 <img src="https://github.com/lihzhao14/ese5190_pico_setup_guide/blob/main/Image/7.%20Building%20Hello%20World%20from%20VS%20Code/1.jpg" width="500">  
 </div>
 
-* Open VS Code from Developer Command Prompt and type,
+* __Open VS Code from Developer Command Prompt__ and type,
 ```
 code
 ```
